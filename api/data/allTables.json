@@ -1,0 +1,100 @@
+{
+  "tables": [
+    {
+      "name": "Slot 1",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "A"
+    },
+    {
+      "name": "Slot 2",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "A"
+    },
+    {
+      "name": "Slot 3",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Slot 4",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Slot 5",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Slot 6",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Slot 7",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Slot 8",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Slot 9",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Slot 10",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Slot 11",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Slot 12",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Slot 13",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Bar"
+    },
+    {
+      "name": "Slot 14",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Slot 15",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Patio"
+    },
+    {
+      "name": "Slot 16",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Inside"
+    }
+  ]
+}
